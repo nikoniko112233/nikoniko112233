@@ -1,5 +1,21 @@
 ## Hi there 👋
+<p align="center">
+  <img src="https://static.wikia.nocookie.net/disneyfanon/images/7/7f/Scrat.png" width="500" alt="Scrat"/> 
+</p>
 
+---
+
+### 💻 ცოტა ჩემს შესახებ:
+
+* 🌍 ვმუშაობ: თბილისი, საქართველო
+* 🌱 ამჟამად ვსწავლობ: [თქვენი ტექნოლოგიები]
+* 📫 დამიკავშირდით: [თქვენი კონტაქტი]
+
+### 📊 GitHub სტატისტიკა
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nikoniko112233&show_icons=true&theme=dark" alt="GitHub Stats" />
+</p>
 <!--
 **nikoniko112233/nikoniko112233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
