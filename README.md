@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co/sJp3jDpr/Screenshot-2025-12-12-at-21-05-51.png" width="500" alt="Scrat"/> 
+  <img src="https://static.wikia.nocookie.net/disneyfanon/images/7/7f/Scrat.png" width="500" alt="Scrat"/> 
 </p>
 
 
