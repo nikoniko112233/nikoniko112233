@@ -1,9 +1,28 @@
-## Hi there 👋
 <p align="center">
   <img src="https://static.wikia.nocookie.net/disneyfanon/images/7/7f/Scrat.png" width="500" alt="Scrat"/> 
 </p>
 
----
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Hi there 👋
 
 ### 💻 ცოტა ჩემს შესახებ:
 
