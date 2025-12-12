@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.pinterest.com/pin/tom-tom-and-jerry-gif-tom-tomandjerry-cat-discover-share-gifs--320740804730729057/" width="500" alt="Scrat"/> 
+  <img src="https://i.ibb.co/sJp3jDpr/Screenshot-2025-12-12-at-21-05-51.png" width="500" alt="Scrat"/> 
 </p>
 
 
