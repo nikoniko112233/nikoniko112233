@@ -3,10 +3,6 @@
 </p>
 
 
-https://pngimg.com/uploads/tom_and_jerry/tom_and_jerry_PNG12.png
-https://static.wikia.nocookie.net/disneyfanon/images/7/7f/Scrat.png
-https://static.wikia.nocookie.net/vsbattles/images/2/2c/1567431497864.png
-
 
 
 
